@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/mahfuzzahmed/mahfuzzahmed/blob/main/banner.png?raw=true"  />
+  <img height="200" src="https://github.com/mahfuzzahmed/mahfuzzahmed/blob/main/banner2.png?raw=true"  />
 </div>
 
 ###
@@ -44,6 +44,17 @@
   <a href="https://www.linkedin.com/in/mahfuj-ahmed-539b41265/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfuzzahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzzahmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
